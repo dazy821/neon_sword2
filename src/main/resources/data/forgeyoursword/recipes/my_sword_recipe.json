@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " g ",
+    " g ",
+    " s "
+  ],
+  "key": {
+    "g": { 
+      "item": "minecraft:glow_ink_sac"
+     },
+    "s": { 
+      "item": "minecraft:stick"
+     }
+  },
+  "result": {
+    "item": "forgeyoursword:my_sword"
+  }
+}
